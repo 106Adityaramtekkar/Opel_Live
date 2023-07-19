@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+
+
+
+.home{
+    position :absolute ;
+    top: 15%; left: 10%;
+    color: #E5E5E5;
+    font-family: 'Raleway', sans-serif;    font-weight: bold;
+
+}
+.about{
+    position :absolute ;
+   
+    
+    top: 15%;
+    left: 39%;
+    color: #E5E5E5;
+    font-family: 'Raleway', sans-serif;    font-weight: bold;
+}
+.contact {
+    position :absolute ;
+    top: 15%; left: 70%;
+    color: #E5E5E5;
+    font-family: 'Raleway', sans-serif;    font-weight: bold;
+}
+.logo{
+width: 250px;
+height: 150px;
+left: 50px;
+top: 8%; 
+position: absolute;
+border-radius: 50%;
+}
+
+.footer{
+    background-color: #B4BCD2;
+    height: 270px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+
+}
+.f1{
+    font-size: large;
+    position: absolute;
+     top: 20px;
+     left: 20px;
+
+
+}
+.f2{
+    font-size: larger;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
+
+.f3{
+    width : 360px;
+    font-size : small;
+    position: absolute;
+top: 85px;
+    left: 20px;
+
+}
+
+.f4{
+    font-size: large;
+    position: absolute;
+     top: 20px;
+     right: 100px;
+}
+.f5{
+    font-size: larger;
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+.f6{
+    width : 400px;
+    font-size : medium;
+    position: absolute;
+    top: 85px;
+    right: 75px;
+
+}
+.f7{
+    font-size : medium;
+    position: absolute;
+    top: 130px;
+    right: 385px;
+}
+.f8{
+    position: absolute;
+    top: 175px;
+    right: 451px;
+}
+.f9{
+    position: absolute;
+    top: 175px;
+    right: 415px;
+}
+.f10{
+    position: absolute;
+    top: 175px;
+    right: 376px;
+}
+.f11{
+    position: absolute;
+    top: 175px;
+    right: 338px;
+}
+
+
+
+.navbar{
+    position: fixed; top: 2%;  left: 30%;   background-color: #0e1f4e;
+height: 80px;
+width: 40%;
+border-radius: 50px;
+border-bottom: 2px solid white;
+}
+
+@media screen and (max-width: 450px) {
+.navbar{
+    position: fixed;
+    top: 2%;
+    left: 5%;
+    height: 56px;
+    width: 350px;
+    z-index: 9;
+    }
+.home{
+    font-size: 18px;
+}
+.about{
+    font-size: 18px;
+    left: 37%;
+}
+.contact{
+    font-size: 18px;
+    left: 67%;
+}
+
+.logo{
+    top: 13%;
+    position: absolute;
+    left: 5%;
+    width: 166px;
+    height: 103px;
+
+}
+
+
+
+
+}

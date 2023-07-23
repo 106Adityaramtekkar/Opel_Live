@@ -46,7 +46,7 @@
 
 .customer{
     width: 31%;
-    height: 53%;
+    height: 121%;
     position: absolute;
     right: 43px;
     top: 1496px;
@@ -57,7 +57,7 @@
 
 .opel{
     width: 31%;
-    height: 120%;
+    height: 262%;
     position: absolute;
     right: 43px;
     top: 302px;
@@ -89,12 +89,13 @@
 }
 
 .para{
-    color: white;
-    width: 100%;
-    font-size: 18px;
-    text-align: center;
+ color: #fff;
+    width: 94%;
+    font-size: 17px;
+    text-align: justify;
     top: 72px;
     position: relative;
+    left: 12px;
 }
 .hname {
        color: white;
@@ -122,12 +123,12 @@
 }
 
 .name{
-     color: white;
-    font-family: 'Ysabeau SC', sans-serif;
-    font-size: 34px;
+    color: #fff;
+    font-family: Ysabeau SC,sans-serif;
+    font-size: 30px;
     position: relative;
     left: 27px;
-    width: 54%;
+    width: 58%;
     border-bottom: 5px solid white;
 }
 
@@ -199,22 +200,21 @@
 }
 
 .border3{
-    border: 2px solid white; 
+       border: 2px solid white;
     height: 420px;
-    width: 460px;
-    left: 65px;
+    width: 398px;
+    left: 35px;
     position: relative;
-    top: 5%; 
+    top: 1%;
 }
 
 .border4{
-    border: 2px solid white; 
- 
-    height: 420px;
-    width: 460px;
-    left: 65px;
+      border: 2px solid white;
+    height: 456px;
+    width: 402px;
+    left: 33px;
     position: relative;
-    top: 10% ; 
+    top: 5%;
     
 
 }
@@ -231,7 +231,7 @@
    border: 2px solid white;
     height: 370px;
     width: 332px;
-    left: 65px;
+    left: 35px;
     position: relative;
     top: 8%;
 }
@@ -241,7 +241,7 @@
     width: 332px;
     left: 53%;
     position: relative;
-    top: 56%;
+    top: -550px;
 }
 
 .border1{
@@ -250,7 +250,7 @@
     width: 332px;
     left: 53%;
     position: relative;
-    top: 8%;
+    top: -293px;
 }
 .n_r{
     border-radius: 100% 31% 100% 0% / 94% 100% 96% 45%;
@@ -266,7 +266,8 @@
 
 
 .n_r1{  
-    border-radius: 0% 0% 99% 100% / 100% 100% 100% 100%;    height: 340px;
+    border-radius: 0% 0% 99% 100% / 100% 100% 100% 100%;   
+  height: 300px;
     position: relative;
     top: -34px;
     left: 0px;
@@ -275,7 +276,7 @@
     
 }
 
-.img1{
+/* .img1{
     border-radius: 100% 100% 100% 100% / 100% 100% 100% 100%;
         width: 240px;
     height: 240px;
@@ -286,10 +287,16 @@
     top: 81px;
     left: 87px;
     border-bottom: 5px solid white;
-
-
-}
-
+} */
+  .img1{
+    border-radius: 100%;
+    width: 210px;
+    height: 210px;
+    position: relative;
+    right: 38px;
+    top: 78px;
+    left: 64px;
+    border-bottom: 5px solid white;}
 
 
 .header {
@@ -336,7 +343,7 @@
     color: white;
     position: absolute;
     top: 50px;
-    width: 303px;
+    width: 288px;
     left: 55px;
    
 }
@@ -411,7 +418,7 @@
     height: 270px;
     position: absolute;;
     left: 0;
-    bottom: -1410px;
+    bottom: -1910px;
     width: 100%;
     border: 5px solid #5E6A8B;
     box-shadow: 2px 1px 2px rgb(147, 145, 182);
@@ -509,9 +516,11 @@ top: 85px;
     width: 43%;
 }
 .opel{
-    top: 2860px;
+        top: 2860px;
     left: 21px;
-    width: 89%;}
+    width: 89%;
+    height: 172%;
+}
 .customer{
     top: 4000px;
 }
@@ -529,7 +538,7 @@ top: 85px;
     font-size: 29px;
     position: relative;
     left: 13px;
-    width: 69%;
+    width: 90%;
 }
 .header__a{
     left: 0px;
@@ -558,7 +567,7 @@ top: 85px;
  .border {
         border: 2px solid white;
         height: 351px;
-        width: 276px;
+        width: 92%;
         left: 13px;
         position: relative;
         top: 8% ;
@@ -567,7 +576,7 @@ top: 85px;
     .border1 {
         border: 2px solid white;
         height: 351px;
-        width: 276px;
+        width: 92%;
         left: 13px;
         position: absolute;
         top: 78.5%;
@@ -576,7 +585,7 @@ top: 85px;
     .border2 {
         border: 2px solid white;
         height: 351px;
-        width: 276px;
+        width: 92%;
         left: 13px;
         position: absolute;
         top: 56.2%;
@@ -584,7 +593,9 @@ top: 85px;
     .img1 {
         border-radius: 100% 100% 100% 100% / 100% 100% 100% 100%;
         width: 120px;
-        height: 120px;}
+        height: 120px;
+        top: 40%;
+    }
 
 .n_r1{
     border-radius: 0% 0% 99% 100% / 100% 100% 100% 100%;
@@ -594,16 +605,16 @@ top: 85px;
     left: 0px;
     background-color: #acb8d6;
     border-bottom: 5px solid white;
-    width: 275px;
+    width: 100%;
 }
 .quotes{
-    font-size: 21px;
-    font-family: 'Ysabeau SC', sans-serif;
-    color: white;
+  font-size: 21px;
+    font-family: Ysabeau SC,sans-serif;
+    color: #fff;
     position: absolute;
-    top: 78px;
-    width: 227px;
-    left: 32px;
+    top: 35px;
+    width: 216px;
+    left: 24px;
 }
 
 .hceo1{
@@ -615,13 +626,16 @@ top: 85px;
     border: 10px solid #ffffff;
     border-radius: 10px;
 }
+  .name{
+     width: 76%;
+  }
 .border3{
-    border: 2px solid white;
+      border: 2px solid white;
     height: 420px;
-    width: 330px;
+    width: 275px;
     left: 9px;
     position: relative;
-    top: 5%;
+    top: 1%;
 }
 .side_img {
     width: 70px;
@@ -630,23 +644,26 @@ top: 85px;
     left: 16px;
 }
 .para{
-    color: white;
-    width: 100%;
-    font-size: 15px;}
+        color: #fff;
+    width: 91%;
+    font-size: 15px;
+    top: 23px;}
 
     .border4 {
         border: 2px solid white;
-        height: 420px;
-        width: 330px;
-        left: 9px;
-        position: relative;
-        top: 7%;
+        height: 450px;
+           width: 275px;
+    left: 9px;
+    position: relative;
+    top: 5%;
     }
 
     .customer[_ngcontent-ng-c741280744] {
         top: 3981px;
         left: 20px;
-        width: 372px;
+           width: 313px;
+    height: 78%;
+      
     }
 
 .p2{
@@ -666,8 +683,9 @@ top: 85px;
 
 
 .footer{
-    bottom: -3940px;
+     bottom: -4240px;
     height: 315px;
+    width: 99%;
   }
   
   .f1{
@@ -686,6 +704,7 @@ top: 85px;
       position: absolute;
       top: 280px;
       left: 20px;
+   width: 78%;
   }
   .f4{
     font-size: 11px;

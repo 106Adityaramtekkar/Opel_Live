@@ -46,7 +46,7 @@
 
 .customer{
     width: 31%;
-    height: 121%;
+    height: 71%;
     position: absolute;
     right: 43px;
     top: 1496px;
@@ -57,7 +57,7 @@
 
 .opel{
     width: 31%;
-    height: 262%;
+    height: 154%;
     position: absolute;
     right: 43px;
     top: 302px;
@@ -419,7 +419,7 @@
     height: 270px;
     position: absolute;;
     left: 0;
-    bottom: -1910px;
+    bottom: -1620px;
     width: 100%;
     border: 5px solid #5E6A8B;
     box-shadow: 2px 1px 2px rgb(147, 145, 182);

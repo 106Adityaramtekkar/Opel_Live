@@ -1,4 +1,9 @@
-
+    body{
+        background-color : #b2bedf;
+            overflow-x: hidden;
+            overflow-y: scroll;
+        
+    }
     *{
         padding: 0%;
     }

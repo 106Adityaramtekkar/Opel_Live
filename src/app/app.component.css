@@ -8,18 +8,19 @@
     top: 15%; left: 10%;
     color: #E5E5E5;
     font-family: 'Raleway', sans-serif;    font-weight: bold;
+      cursor: pointer;
 
 }
 .about{
     position :absolute ;
-   
-    
+        cursor: pointer;
     top: 15%;
     left: 39%;
     color: #E5E5E5;
     font-family: 'Raleway', sans-serif;    font-weight: bold;
 }
 .contact {
+      cursor: pointer;
     position :absolute ;
     top: 15%; left: 70%;
     color: #E5E5E5;

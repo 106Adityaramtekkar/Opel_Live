@@ -46,10 +46,10 @@
 
 .customer{
     width: 31%;
-    height: 71%;
+       height: 73%;
     position: absolute;
     right: 43px;
-    top: 1496px;
+    top: 1479px;
     border-left: 10px solid #ffffff;
     background-color: #0e1f4e;
     border-radius: 20px;
@@ -57,7 +57,7 @@
 
 .opel{
     width: 31%;
-    height: 154%;
+    height: 155%;
     position: absolute;
     right: 43px;
     top: 302px;

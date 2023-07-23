@@ -174,7 +174,7 @@
   border: 3px solid #5E6A8B;
   box-shadow: 2px 2px 2px #5E6A8B;
   height: 325px;
-  width: 835px;
+  width: 621px;
   position: relative;
   border-radius: 20px;
   top: -156%;
@@ -206,6 +206,7 @@ top: 10%;
   font-family: 'Ysabeau SC', sans-serif;
 font-weight: 500;
 color: rgb(143, 143, 143);
+  width: 480px;
 }
 
 
@@ -1283,7 +1284,7 @@ p a:hover {
   font-size: 27px;
   top: 66%;}
 .off1{
-  left: 116px;
+  left: 3px;
   font-size: 27px;
   top: 72%;
 }
@@ -1372,32 +1373,35 @@ color: rgb(255, 255, 255);
 }
 
 .about img {
-  width: 90%;
-  top: -53px;
-  height: 314px;
-  position: absolute;
-  opacity: 0.9;
-  left: -89px;
+    width: 83%;
+    top: -53px;
+    height: 331px;
+    position: absolute;
+    opacity: .9;
+    left: -89px;
 }
 
 .about1{
-  left: -74px;
-  top: -11%;
-  width: 386px;
-  height: 289px;
+    left: -74px;
+    top: -12%;
+    width: 366px;
+    height: 307px;
 }
 .text1{
   left: 37%;
     position: absolute;
     top: 13%;
 }
-
-
+ .news_img{
+    width: 99%;
+    height: 250px;
+}  
 .news1{
-  top: 225px;
-  left: 0;
-  width: 99%;
-height: 660px;}
+     top: 246px;
+    left: 0;
+    width: 100%;
+    height: 660px;
+}
 .news{
   height: 950px;
   bottom: -1406px;}
@@ -1451,9 +1455,10 @@ height: 660px;}
 }
 
 .content_cmp {
-  text-align: left;
-  font-size: 22px;
-  left: 14px;
+    text-align: left;
+    font-size: 22px;
+    left: 14px;
+    width: 315px;
 }
 
 .l1 {

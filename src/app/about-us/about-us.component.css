@@ -219,13 +219,13 @@
 
 }
 
-.border8{
+.border9{
    border: 2px solid white;
     height: 370px;
     width: 332px;
     left: 35px;
     position: relative;
-    top: -8%;
+    top: -18%;
 }
 
 .border{
@@ -573,6 +573,15 @@ top: 85px;
         position: relative;
         top: 8% ;
     }
+   .border9 {
+        border: 2px solid white;
+        height: 351px;
+        width: 92%;
+        left: 13px;
+        position: relative;
+        top: 8% ;
+    }
+
 
     .border1 {
         border: 2px solid white;

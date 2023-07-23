@@ -131,19 +131,20 @@ border-bottom: 2px solid white;
     top: 2%;
     left: 5%;
     height: 56px;
-    width: 350px;
+    width: 75%;
     z-index: 9;
     }
 .home{
-    font-size: 18px;
+    font-size: 16px;
 }
 .about{
-    font-size: 18px;
-    left: 37%;
+    font-size: 16px;
+    left: 35%;
 }
 .contact{
-    font-size: 18px;
-    left: 67%;
+    font-size: 16px;
+    left: 65%;
+    width: 45%;
 }
 
 .logo{

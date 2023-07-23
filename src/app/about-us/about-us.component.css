@@ -225,19 +225,32 @@
 
 
 
+
+
 .border{
-    border: 2px solid white; height: 420px ; width: 400px; left: 65px; position: relative;
-    top : 7%;
+   border: 2px solid white;
+    height: 370px;
+    width: 332px;
+    left: 65px;
+    position: relative;
+    top: 8%;
 }
 .border2{
-    border: 2px solid white; height: 420px ; width: 400px; left: 53% ; top: 56.4%; position: absolute;
+  border: 2px solid white;
+    height: 370px;
+    width: 332px;
+    left: 53%;
+    position: relative;
+    top: 56%;
 }
 
 .border1{
-    border: 2px solid white; height: 420px ; width: 400px; 
-    position: absolute;
+  border: 2px solid white;
+    height: 370px;
+    width: 332px;
     left: 53%;
-    top: 70px;
+    position: relative;
+    top: 8%;
 }
 .n_r{
     border-radius: 100% 31% 100% 0% / 94% 100% 96% 45%;

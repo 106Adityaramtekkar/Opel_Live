@@ -1203,7 +1203,7 @@ p a:hover {
     top: -11px;
     left: -11px;
 }
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 420px) {
 
 
  .container .box .content{

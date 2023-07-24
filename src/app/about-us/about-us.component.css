@@ -46,7 +46,7 @@
 
 .customer{
     width: 31%;
-       height: 73%;
+       height: 71%;
     position: absolute;
     right: 43px;
     top: 1479px;
@@ -57,7 +57,7 @@
 
 .opel{
     width: 31%;
-    height: 155%;
+    height: 154%;
     position: absolute;
     right: 43px;
     top: 302px;
@@ -277,18 +277,7 @@
     
 }
 
-/* .img1{
-    border-radius: 100% 100% 100% 100% / 100% 100% 100% 100%;
-        width: 240px;
-    height: 240px;
-    position: relative;
-    right: 38px;
-    top: 51px;
-    left: 50px;
-    top: 81px;
-    left: 87px;
-    border-bottom: 5px solid white;
-} */
+
   .img1{
     border-radius: 100%;
     width: 210px;
